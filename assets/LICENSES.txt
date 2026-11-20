@@ -1,0 +1,82 @@
+assets/fonts/LICENSE.txt
+The digitally signed machine readable Typeface(Font) licensed to you is copyrighted, (2010), King Fahd Glorious Quran Printing Complex.
+ISBN: 978-603-8010-15-0, Accession No. 1430/7278
+All rights reserved. This Font is the property of King Fahd Glorious Quran Printing Complex, and may not be reproduced, modified without the express written approval of King Fahd Glorious Quran Printing Complex.
+
+ELECTRONIC END-USER LICENSE AGREEMENT
+
+By installing this Font You accept all the terms and conditions of this Agreement.
+
+Copyright (c) 2010 by King Fahd Glorious Quran Printing Complex (KFGQPC), AlMadinah AlMunawarrah, Kingdom of Saudi Arabia. All Rights Reserved. KFGQPC retains full title and ownership of this Typeface both as artwork and font software. This Agreement does not grant you any intellectual property rights in the Font.
+
+Permission is hereby granted, Free of Cost, to any person obtaining a copy of this Font accompanying this license, the rights to Use, Copy, Distribute, subject to the following conditions:
+
+1.    The Font Software cannot be Sold, Modified, Altered, Translated, Reverse Engineered, Decompiled, Disassembled, Reproduced or Attempted to discover the Source Code of this Font in no means.
+
+2.    The Font Software is provided "AS IS", and KFGQPC makes no warranties as to its use or performance, fitness for a particular purpose. KFGQPC does not and cannot warrant the performance or results you may obtain by using the Font. In no event shall KFGQPC be liable for any Claims, Damages or other Liability, including any Damages, arising from, out of the use or inability to use the Font or from other dealings in the Font.
+
+Original download: https://www.arfonts.net/elgharib-kfgqpc-hafs-taweel-font
+Font file is included unchanged.
+
+
+assets/fonts/RASLEY_LICENSE.txt
+By installing or using this font you agree to the Product Usage Agreement:
+https://www.mansgreback.com/pua
+
+-----------------------
+
+This font is for PERSONAL USE ONLY and requires a license for commercial use.
+The font license can be purchased at:
+https://www.mansgreback.com/product/rasley-heights
+
+Please read "What license do I need?" for more info:
+https://www.mansgreback.com/license
+
+-----------------------
+
+Rasley Heights is a high-contrast calligraphy script built around long, drawn-out swashes and broad capitals.
+
+The hand behind it leans hard on the downstroke and lifts to a hairline on the way back up, the way a pointed pen does when the writer trusts the paper. Caps open with a wide loop and finish in a curl that reaches into the next letter. Lowercase moves more steadily, keeping the rhythm while the capitals carry the show.
+
+It belongs on a hotel marquee, the cover plate of a wedding invitation, the brass nameplate of a building that wants to look older than it is.
+
+Designed and created by Mans Greback.
+
+The font is built with advanced OpenType functionality and guaranteed top-notch quality, containing stylistic and contextual alternates, ligatures and more automatic and manual features; all to give you full control and customizability.
+It has extensive lingual support, covering all Latin-based languages, from North Europa to South Africa, from America to South-East Asia. It contains all characters and symbols you'll ever need, including all punctuation and numbers.
+
+-----------------------
+
+For further information, please read the FAQ:
+https://www.mansgreback.com/faq
+
+
+assets/FLASK_LICENSE.txt
+Copyright 2010 Pallets
+
+Redistribution and use in source and binary forms, with or without
+modification, are permitted provided that the following conditions are
+met:
+
+1.  Redistributions of source code must retain the above copyright
+    notice, this list of conditions and the following disclaimer.
+
+2.  Redistributions in binary form must reproduce the above copyright
+    notice, this list of conditions and the following disclaimer in the
+    documentation and/or other materials provided with the distribution.
+
+3.  Neither the name of the copyright holder nor the names of its
+    contributors may be used to endorse or promote products derived from
+    this software without specific prior written permission.
+
+THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS
+"AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT
+LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A
+PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT
+HOLDER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL,
+SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED
+TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR
+PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF
+LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING
+NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS
+SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
